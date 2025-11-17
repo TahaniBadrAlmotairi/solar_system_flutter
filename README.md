@@ -4,7 +4,7 @@ A simple Flutter solar system animation.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+An educational Flutter web application that interactively displays the planets of the Solar System. Users can view the planets orbiting the Sun and tap any planet to zoom in and learn its name, order, and basic information. This project was developed with the help of AI.
 
 A few resources to get you started if this is your first Flutter project:
 
